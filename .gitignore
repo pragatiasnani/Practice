@@ -1,0 +1,13 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+*.app
+
+# IDE-specific folders (e.g., Visual Studio)
+.vs/
+bin/
+obj/
